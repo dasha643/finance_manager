@@ -36,6 +36,7 @@ def show_transaction(transactions):
         print(f"{t['id']} | {t['type']} | {t['amount']} | {t['category']} | {t['description']}")
 
 
+# функція для фільтрації
 def filter_by_category(transactions, category):
     """фільтрує та виводить транзакцію за категорією"""
     category_lower = category.strip().lower()
