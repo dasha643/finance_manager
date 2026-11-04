@@ -19,6 +19,7 @@ def main():
         pass
 
     while True:
+        print("Test revert")
         print("\n========== Finance Manager ==========")
         print("\n1. додати дохід")
         print("2. додати витрату")
