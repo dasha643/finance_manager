@@ -19,7 +19,7 @@ def main():
         pass
 
     while True:
-        print("\n========== Finance Manager by Developer A ==========")
+        print("\n========== Finance Manager ==========")
         print("\n1. додати дохід")
         print("2. додати витрату")
         print("3. переглянути всі транзакції")
