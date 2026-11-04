@@ -38,3 +38,4 @@
    - git stash ![img.png](img.png)
    - git status ![img_1.png](img_1.png)
    - git stash pop ![img_2.png](img_2.png)
+   - **пункт 4 завдання 3** команда git revert створює новий коміт, який робить дію протилежну попередньому коміту
