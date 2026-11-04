@@ -1,3 +1,4 @@
+# розрахунок загальних доходів
 def calculate_income(transactions):
     """обчислює загальний дохід"""
     return sum(t['amount'] for t in transactions if t["type"] == "income")
