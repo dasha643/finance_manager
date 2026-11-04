@@ -1,3 +1,4 @@
+# функція для додавання нової транзакції
 def add_transaction(transactions, transaction_type, amount, category, description):
     """додає нову транзакцію до списку"""
     if transaction_type not in ["income", "expense"]:
