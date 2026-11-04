@@ -24,6 +24,7 @@ def add_transaction(transactions, transaction_type, amount, category, descriptio
     return transaction
 
 
+# функція для виведення списку транзакцій
 def show_transaction(transactions):
     """виводить усі транзакції у табличці"""
     if not transactions:
